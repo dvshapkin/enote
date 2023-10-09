@@ -2,8 +2,10 @@
 @import "../fonts/fonts.css";
 
 @import "container/container.css";
+@import "layout/layout.css";
 @import "header/header.css";
 @import "menu/menu.css";
+@import "footer/footer.css";
 
 html, body {
   min-height: 100%;
