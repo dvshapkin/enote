@@ -1,0 +1,11 @@
+.menu {
+  padding: 20px 0;
+  display: flex;
+  gap: 20px;
+}
+
+.menu__item {
+  text-decoration: none;
+  font: normal 400 18px/1.2 Roboto;
+  color: var(--menu-item-color);
+}
